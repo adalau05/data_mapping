@@ -1,12 +1,9 @@
 # Enterprise Data Mapping & Profiling Project
 
-
-
-
 ## Overview
 This project demonstrates end-to-end data research, profiling, and source-to-target (S2T) mapping — the core responsibilities of a Business Data Analyst in enterprise data environments.
 
-It showcases the exact skills employers look for:
+It showcases the exact skills for:
 - Mining & profiling data from a data warehouse
 - Defining business rules and requirements
 - Creating S2T mapping specifications
