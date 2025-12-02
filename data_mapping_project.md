@@ -1,7 +1,6 @@
 # Enterprise Data Mapping & Profiling Project
 
-> **GitHub README Version**
-> This README is structured for a public portfolio repository, showcasing a full end-to-end data mapping and profiling project aligned with enterprise Business Data Analyst roles.
+
 
 
 ## Overview
